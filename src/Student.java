@@ -1,7 +1,7 @@
 public class Student {
 
-    private String fname;
-    private String lname;
+    public String fname;
+    public String lname;
     private int indexNumber;
     private String email;
     private String address;
